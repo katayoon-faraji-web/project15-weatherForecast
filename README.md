@@ -1,6 +1,7 @@
 # project15-weatherForecast
 ![pic1](https://github.com/katayoon-faraji-web/project15-weatherForecast/assets/144775981/f3d4b3c5-0748-463f-99bc-08e3974a7e65)
-![pic2](https://github.com/katayoon-faraji-web/project15-weatherForecast/assets/144775981/01b0fca9-1ab9-49ec-942e-7ac411b5762a)
+
+![pic2](https://github.com/katayoon-faraji-web/project15-weatherForecast/assets/144775981/8fd1a4fe-0d72-4043-9054-295612185bd6)
 
 - [Demo Project](https://katayoon-faraji-web.github.io/project15-weatherForecast/)
 
